@@ -100,7 +100,7 @@
 
         <h2>💡 Vision Statement</h2>
         <p>“Back in my day, blockchains went down once a week, and we liked it!”</p>
-        <p>BackInMyDay Coin exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. $OLD isn’t here to scale — it’s here to sit.</p>
+        <p>BackInMyDay exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. $OLD isn’t here to scale — it’s here to sit.</p>
 
         <h2 class="section-header">🧠 Key Features</h2>
         <ul>

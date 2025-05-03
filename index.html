@@ -118,7 +118,7 @@
             </tr>
             <tr>
                 <td>Total Supply</td>
-                <td>21,000,000 (classic)</td>
+                <td>1,000,000,000 (classic)</td>
             </tr>
             <tr>
                 <td>Token Symbol</td>

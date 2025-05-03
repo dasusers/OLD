@@ -104,10 +104,10 @@
     <img src="https://deepai.org/gallery-item/595aacdb9db9461897538c1c2acbfe25/a-young-cryptopunk-is-standing-beside-and-listening-t.jpg.html">
 
     <div class="content">
-        <h2>🧓 BackInMyDay Coin ($OLD)</h2>
+        <h2>BackInMyDay Coin ($OLD)</h2>
         <p>The Only Crypto You’re Too Young to Understand<br>Version 1.1 – May 2025<br>Founder: A guy who once mined Bitcoin on a microwave</p>
 
-        <h2>👴 Abstract</h2>
+        <h2>Abstract</h2>
         <p>BackInMyDay Coin ($OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, $OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
 
         <h2>💡 Vision Statement</h2>
@@ -130,7 +130,7 @@
             </tr>
             <tr>
                 <td>Total Supply</td>
-                <td>21,000,000 (classic)</td>
+                <td>1,000,000,000 (classic)</td>
             </tr>
             <tr>
                 <td>Token Symbol</td>

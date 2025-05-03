@@ -96,16 +96,12 @@
     </style>
 </head>
 <body>
-
     <h1>BackInMyDay ‐ $OLD</h1>
-
-    <!-- Image below the header -->
-    <img src="https://github.com/dasusers/OLD/blob/main/OLD.jpg?raw=true" 
-         alt="BackInMyDay" class="header-image">
-
     <div class="content">
+        
         <h2>🧓 BackInMyDay ($OLD)</h2>
-        <p>The Only Crypto You’re Too Young to Understand<br>Version 1.1 – May 2025<br>Founder: A guy who once mined Bitcoin on a microwave</p>
+        
+        <p>Founder: A guy who once mined Bitcoin on a microwave</p>
 
         <h2>👴 Abstract</h2>
         <p>BackInMyDay ($OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, $OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>

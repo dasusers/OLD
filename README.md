@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><b>BackInMyDay Coin - $OLD</b></title>
+    <title>BackInMyDay - $OLD</title>
     <style>
         body {
             background-color: black;
             color: white;
-            font-family: 'Consolas', sans-serif;
+            font-family: 'Times', sans-serif;
             margin: 0;
             padding: 0;
         }

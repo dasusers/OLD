@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><b>BackInMyDay Coin - $OLD</b></title>
+    <title>BackInMyDay - $OLD</title>
     <style>
         body {
             background-color: black;
@@ -100,7 +100,7 @@
     <h1>BackInMyDay ‐ $OLD</h1>
 
     <!-- Image below the header -->
-    <img src="https://deepai.org/gallery-item/595aacdb9db9461897538c1c2acbfe25/a-young-cryptopunk-is-standing-beside-and-listening-t.jpg.html" 
+    <img src="https://github.com/dasusers/OLD/blob/main/OLD.jpg?raw=true" 
          alt="BackInMyDay" class="header-image">
 
     <div class="content">

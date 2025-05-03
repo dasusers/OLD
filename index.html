@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BackInMyDay - $OLD</title>
+    <title>BackInMyDay Coin - $OLD</title>
     <style>
         body {
             background-color: black;
@@ -85,30 +85,22 @@
             color: #f2d7a1;
             text-decoration: none;
         }
-
-        /* Image styling */
-        .header-image {
-            display: block;
-            margin: 20px auto;
-            width: 80%;  /* Adjust image size as needed */
-            max-width: 700px;  /* Prevents it from getting too large */
-        }
     </style>
 </head>
 <body>
+
     <h1>BackInMyDay ‐ $OLD</h1>
+
     <div class="content">
-        
-        <h2>🧓 BackInMyDay ($OLD)</h2>
-        
-        <p>Founder: A guy who once mined Bitcoin on a microwave</p>
+        <h2>🧓 BackInMyDay Coin ($OLD)</h2>
+        <p>The Only Crypto You’re Too Young to Understand<br>Version 1.1 – May 2025<br>Founder: A guy who once mined Bitcoin on a microwave</p>
 
         <h2>👴 Abstract</h2>
-        <p>BackInMyDay ($OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, $OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
+        <p>BackInMyDay Coin ($OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, $OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
 
         <h2>💡 Vision Statement</h2>
-        <p>“Back in my day, blockchains went down once a week, and we could mine crypto on calculators!”</p>
-        <p>BackInMyDay exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. $OLD isn’t here to scale — it’s here to sit.</p>
+        <p>“Back in my day, blockchains went down once a week, and we liked it!”</p>
+        <p>BackInMyDay Coin exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. $OLD isn’t here to scale — it’s here to sit.</p>
 
         <h2 class="section-header">🧠 Key Features</h2>
         <ul>
@@ -126,7 +118,7 @@
             </tr>
             <tr>
                 <td>Total Supply</td>
-                <td>1,000,000,000 (classic)</td>
+                <td>21,000,000 (classic)</td>
             </tr>
             <tr>
                 <td>Token Symbol</td>
@@ -146,7 +138,7 @@
             </tr>
         </table>
 
-           <h2 class="section-header">🕰 Roadmap</h2>
+        <h2 class="section-header">🕰 Roadmap</h2>
         <table>
             <tr>
                 <th>Year</th>

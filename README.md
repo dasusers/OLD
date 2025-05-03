@@ -99,7 +99,7 @@
         <p>BackInMyDay ($OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, $OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
 
         <h2>💡 Vision Statement</h2>
-        <p>“Back in my day, blockchains went down once a week, and we liked it!”</p>
+        <p>“Back in my day, blockchains went down once a week, and we mined crypto with calculators!”</p>
         <p>BackInMyDay exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. $OLD isn’t here to scale — it’s here to sit.</p>
 
         <h2 class="section-header">🧠 Key Features</h2>

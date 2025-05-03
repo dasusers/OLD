@@ -101,7 +101,7 @@
     <h1>BackInMyDay ‐ $OLD</h1>
 
     <!-- Image below the header -->
-    <img src="https://github.com/dasusers/OLD/blob/main/712ba3b2-4eee-4731-afda-e7f95069c071.jpeg">
+    <img src="https://deepai.org/gallery-item/595aacdb9db9461897538c1c2acbfe25/a-young-cryptopunk-is-standing-beside-and-listening-t.jpg.html">
 
     <div class="content">
         <h2>🧓 BackInMyDay Coin ($OLD)</h2>

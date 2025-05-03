@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BackInMyDay Coin - $OLD</title>
+    <title><b>BackInMyDay Coin - $OLD</b></title>
     <style>
         body {
             background-color: black;
@@ -85,11 +86,23 @@
             color: #f2d7a1;
             text-decoration: none;
         }
+
+        /* Image styling */
+        .header-image {
+            display: block;
+            margin: 20px auto;
+            width: 80%;  /* Adjust image size as needed */
+            max-width: 700px;  /* Prevents it from getting too large */
+        }
     </style>
 </head>
 <body>
 
     <h1>BackInMyDay ‐ $OLD</h1>
+
+    <!-- Image below the header -->
+    <img src="https://private-user-images.githubusercontent.com/210161913/440131406-03660952-70ab-4df0-8512-76d731960c7b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyOTE4MTIsIm5iZiI6MTc0NjI5MTUxMiwicGF0aCI6Ii8yMTAxNjE5MTMvNDQwMTMxNDA2LTAzNjYwOTUyLTcwYWItNGRmMC04NTEyLTc2ZDczMTk2MGM3Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwM1QxNjU4MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMjFlYzQzNDkzYzkwZDA2N2NlZWFjYjEzNGE4YzRjNGE1YTNlY2ExOWM3MTlhNWExNzk2MGMwMjMyNTllMTMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bRdx2Z4FXJz4cb5fXtk2xc_ytYBy-NWkBEP0W35ERbo" 
+         alt="BackInMyDay Coin Logo" class="header-image">
 
     <div class="content">
         <h2>🧓 BackInMyDay Coin ($OLD)</h2>
@@ -173,31 +186,4 @@
         <h2 class="section-header">🙃 How It Works</h2>
         <ul>
             <li><strong>Acquire $OLD</strong> – You will instantly feel uneasy. That means it’s working.</li>
-            <li><strong>Do absolutely nothing</strong> – Transferring or staking resets your 10-year clock. Solana might be fast, but $OLD punishes haste.</li>
-            <li><strong>Wait 10 years</strong> – After a full decade of inaction, you unlock your final form:  
-            “Certified Crypto-Elder™”, complete with a badge that reads: “I Didn’t Chase Gains — I Waited for Them.”</li>
-        </ul>
-
-        <h2 class="section-header">🪙 Use Cases</h2>
-        <ul>
-            <li>Passive flexing in Solana Twitter threads.</li>
-            <li>Teaching the next generation about patience in Web3.</li>
-            <li>The ultimate anti-FOMO portfolio piece.</li>
-            <li>Potential eligibility for a cameo in “Solana: The Rise, the Fall, the Comeback”.</li>
-        </ul>
-
-        <h2 class="section-header">👴 Cultural Impact</h2>
-        <p>$OLD is a cultural artifact, a protest coin, and a passive-aggressive note to every protocol with over 10k TPS. It celebrates inaction, distrust in progress, and the good old days of missed airdrops and forgotten wallets.</p>
-
-        <h2 class="section-header">🚫 Disclaimer</h2>
-        <p>This white paper is satire. $OLD is not a financial product. If you want to build it, please consult a Solana dev, your most patient friend, and a grandfatherly figure for moral support.</p>
-
-    </div>
-
-    <div class="footer">
-        <p>Created for fun by the team at BackInMyDay Coin. All rights reserved.</p>
-        <p><a href="https://github.com/BackInMyDayCoin">GitHub Repository</a></p>
-    </div>
-
-</body>
-</html>
+            <li><

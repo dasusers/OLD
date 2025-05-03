@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BackInMyDay Coin - $OLD</title>
+    <title>BackInMyDay - $OLD</title>
     <style>
         body {
             background-color: black;
@@ -92,15 +92,15 @@
     <h1>BackInMyDay ‐ $OLD</h1>
 
     <div class="content">
-        <h2>🧓 BackInMyDay Coin ($OLD)</h2>
+        <h2>🧓 BackInMyDay ($OLD)</h2>
         <p>The Only Crypto You’re Too Young to Understand<br>Version 1.1 – May 2025<br>Founder: A guy who once mined Bitcoin on a microwave</p>
 
         <h2>👴 Abstract</h2>
-        <p>BackInMyDay Coin ($OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, $OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
+        <p>BackInMyDay ($OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, $OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
 
         <h2>💡 Vision Statement</h2>
         <p>“Back in my day, blockchains went down once a week, and we liked it!”</p>
-        <p>BackInMyDay Coin exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. $OLD isn’t here to scale — it’s here to sit.</p>
+        <p>BackInMyDay exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. $OLD isn’t here to scale — it’s here to sit.</p>
 
         <h2 class="section-header">🧠 Key Features</h2>
         <ul>
@@ -195,7 +195,7 @@
     </div>
 
     <div class="footer">
-        <p>Created for fun by the team at BackInMyDay Coin. All rights reserved.</p>
+        <p>Created for fun by the team at BackInMyDay. All rights reserved.</p>
         <p><a href="https://github.com/BackInMyDayCoin">GitHub Repository</a></p>
     </div>
 

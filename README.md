@@ -101,8 +101,7 @@
     <h1>BackInMyDay ‐ $OLD</h1>
 
     <!-- Image below the header -->
-    <img src="[https://private-user-images.githubusercontent.com/210161913/440131406-03660952-70ab-4df0-8512-76d731960c7b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyOTE4MTIsIm5iZiI6MTc0NjI5MTUxMiwicGF0aCI6Ii8yMTAxNjE5MTMvNDQwMTMxNDA2LTAzNjYwOTUyLTcwYWItNGRmMC04NTEyLTc2ZDczMTk2MGM3Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwM1QxNjU4MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMjFlYzQzNDkzYzkwZDA2N2NlZWFjYjEzNGE4YzRjNGE1YTNlY2ExOWM3MTlhNWExNzk2MGMwMjMyNTllMTMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bRdx2Z4FXJz4cb5fXtk2xc_ytYBy-NWkBEP0W35ERbo" 
-         alt="BackInMyDay Coin Logo" class="header-image](https://github.com/dasusers/OLD/blob/main/OLD.jpg?raw=true)](https://api.deepai.org/job-view-file/c33e21b1-a625-47fe-b4c3-c620a782d8e8/outputs/output.jpg)">
+    <img src="https://github.com/dasusers/OLD/blob/main/712ba3b2-4eee-4731-afda-e7f95069c071.jpeg">
 
     <div class="content">
         <h2>🧓 BackInMyDay Coin ($OLD)</h2>

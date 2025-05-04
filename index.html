@@ -24,14 +24,14 @@
         }
 
         h2 {
-            font-size: 1.8em;
+            font-size: 1.3em;
             color: #66FF66;
             text-align: left;
             padding-left: 20px;
         }
 
         h3 {
-            font-size: 1.3em;
+            font-size: 1.8em;
             color: #66FF66;
             text-align: center;
             padding-left: 20px;
@@ -103,7 +103,7 @@
 </head>
 <body>
 
-    <h2>BackInMyDay ‐ OLD</h2>
+    <h3>BackInMyDay ‐ OLD</h3>
     <h6>Version 25.5 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
         
     <div class="content">

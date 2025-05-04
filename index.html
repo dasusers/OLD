@@ -33,6 +33,13 @@
         h3 {
             font-size: 1em;
             color: #66FF66;
+            text-align: left;
+            padding-left: 20px;
+        }
+
+          h6 {
+            font-size: 1em;
+            color: #66FF66;
             text-align: center;
             padding-left: 20px;
         }

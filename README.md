@@ -30,6 +30,13 @@
             padding-left: 20px;
         }
 
+        h3 {
+            font-size: 1em;
+            color: #00FF33;
+            text-align: center;
+            padding-left: 20px;
+        }
+        
         p {
             font-size: 1.2em;
             line-height: 1.6;

@@ -96,21 +96,21 @@
 </head>
 <body>
 
-    <h1>BackInMyDay ‐ OLD</h1>
-    <h1>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h1>
+    <h2>BackInMyDay ‐ OLD</h2>
+    <h6>Version 24.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
         
     <div class="content">
-        <h2>🧓 BackInMyDay (OLD)</h2>
+        <h3>🧓 BackInMyDay (OLD)</h3>
         <p>Founder: A guy who once mined Bitcoin on a microwave</p>
 
-        <h2>👴 Abstract</h2>
+        <h3>👴 Abstract</h3>
         <p>BackInMyDay (OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
 
-        <h2>💡 Vision Statement</h2>
+        <h3>💡 Vision Statement</h3>
         <p>“Back in my day, blockchains went down once a week, and we mined crypto with calculators!”</p>
         <p>OLD exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. OLD isn’t here to scale — it’s here to sit.</p>
 
-        <h2 class="section-header">🧠 Key Features</h2>
+        <h3 class="section-header">🧠 Key Features</h3>
         <ul>
             <li>Proof of Inertia (PoI): The less you touch your tokens, the better.</li>
             <li>10-Year Vesting Cliff: Coins unlock only after a decade of inactivity.</li>
@@ -118,7 +118,7 @@
             <li>NFT Bonus: Each wallet gets a pixelated image of a man yelling at a TPS benchmark.</li>
         </ul>
 
-        <h2 class="section-header">📈 Tokenomics</h2>
+        <h3 class="section-header">📈 Tokenomics</h3>
         <table>
             <tr>
                 <th>Feature</th>
@@ -178,7 +178,7 @@
             </tr>
         </table>
 
-        <h2 class="section-header">🙃 How It Works</h2>
+        <h3 class="section-header">🙃 How It Works</h3>
         <ul>
             <li><strong>Acquire OLD</strong> – You will instantly feel uneasy. That means it’s working.</li>
             <li><strong>Do absolutely nothing</strong> – Transferring or staking resets your 10-year clock. Solana might be fast, but OLD punishes haste.</li>
@@ -186,7 +186,7 @@
             “Certified Crypto-Elder™”, complete with a badge that reads: “I Didn’t Chase Gains — I Waited for Them.”</li>
         </ul>
 
-        <h2 class="section-header">🪙 Use Cases</h2>
+        <h3 class="section-header">🪙 Use Cases</h3>
         <ul>
             <li>Passive flexing in Solana Twitter threads.</li>
             <li>Teaching the next generation about patience in Web3.</li>
@@ -194,10 +194,10 @@
             <li>Potential eligibility for a cameo in “Solana: The Rise, the Fall, the Comeback”.</li>
         </ul>
 
-        <h2 class="section-header">👴 Cultural Impact</h2>
+        <h3 class="section-header">👴 Cultural Impact</h3>
         <p>OLD is a cultural artifact, a protest coin, and a passive-aggressive note to every protocol with over 10k TPS. It celebrates inaction, distrust in progress, and the good old days of missed airdrops and forgotten wallets.</p>
 
-        <h2 class="section-header">🚫 Disclaimer</h2>
+        <h3 class="section-header">🚫 Disclaimer</h3>
         <p>This white paper is satire. OLD is not a financial product. If you want to build it, please consult a Solana dev, your most patient friend, and a grandfatherly figure for moral support.</p>
 
     </div>

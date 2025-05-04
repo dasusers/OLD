@@ -13,6 +13,10 @@
             padding: 0;
         }
 
+        img {
+            width: 100%;
+        }
+
         h1 {
             text-align: center;
             font-size: 3em;
@@ -102,7 +106,8 @@
     </style>
 </head>
 <body>
-
+    
+    <img src="https://github.com/dasusers/OLD/blob/main/OLD.jpg" alt="BackInMyDay">
     <h3>BackInMyDay ‐ OLD</h3>
     <h6>Version 25.5 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
         

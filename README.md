@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><h1>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h1></title>
-    <title>BackInMyDay - OLD</title>
+        <title>OLD</title>
     <style>
         body {
             background-color: black;
@@ -17,8 +16,8 @@
         h1 {
             text-align: center;
             font-size: 3em;
-            margin-top: 50px;
-            color: #f2d7a1;
+            margin-top: 20px;
+            color: #00FF33;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
             font-family: 'Times New Roman', serif;
             text-transform: uppercase;
@@ -26,7 +25,7 @@
 
         h2 {
             font-size: 1.8em;
-            color: #f2d7a1;
+            color: #00FF33;
             text-align: left;
             padding-left: 20px;
         }
@@ -35,21 +34,21 @@
             font-size: 1.2em;
             line-height: 1.6;
             margin: 20px 40px;
-            color: #ccc;
+            color: #00FF33;
         }
 
         ul {
             font-size: 1.2em;
             line-height: 1.6;
             margin: 20px 40px;
-            color: #ccc;
+            color: #00FF33;
         }
 
         table {
             width: 80%;
             margin: 20px auto;
             border-collapse: collapse;
-            color: #ccc;
+            color: #00FF33;
         }
 
         table, th, td {
@@ -67,7 +66,7 @@
 
         .section-header {
             font-size: 2em;
-            color: #f2d7a1;
+            color: #00FF33;
             margin-top: 30px;
         }
 
@@ -77,13 +76,13 @@
 
         .footer {
             text-align: center;
-            color: #888;
+            color: #00FF33;
             padding: 40px 0;
             font-size: 1em;
         }
 
         .footer a {
-            color: #f2d7a1;
+            color: #00FF33;
             text-decoration: none;
         }
     </style>
@@ -91,6 +90,7 @@
 <body>
 
     <h1>BackInMyDay ‐ OLD</h1>
+    <h1>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h1>
         
     <div class="content">
         <h2>🧓 BackInMyDay (OLD)</h2>

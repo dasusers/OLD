@@ -20,7 +20,7 @@
             color: #66FF66;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
             font-family: 'Times New Roman', serif;
-            text-transform: uppercase;
+            text-transform: none;
         }
 
         h2 {

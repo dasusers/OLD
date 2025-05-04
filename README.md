@@ -159,7 +159,7 @@
             </tr>
             <tr>
                 <td>2035</td>
-                <td>First successful $OLD transaction</td>
+                <td>First successful OLD transaction</td>
             </tr>
             <tr>
                 <td>2040</td>
@@ -174,7 +174,7 @@
         <h2 class="section-header">🙃 How It Works</h2>
         <ul>
             <li><strong>Acquire OLD</strong> – You will instantly feel uneasy. That means it’s working.</li>
-            <li><strong>Do absolutely nothing</strong> – Transferring or staking resets your 10-year clock. Solana might be fast, but $OLD punishes haste.</li>
+            <li><strong>Do absolutely nothing</strong> – Transferring or staking resets your 10-year clock. Solana might be fast, but OLD punishes haste.</li>
             <li><strong>Wait 10 years</strong> – After a full decade of inaction, you unlock your final form:  
             “Certified Crypto-Elder™”, complete with a badge that reads: “I Didn’t Chase Gains — I Waited for Them.”</li>
         </ul>

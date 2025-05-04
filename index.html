@@ -14,7 +14,9 @@
         }
 
         img {
-            width: 50%;
+            width: 640px;
+            height: 640px;
+            object-fit: cover; /* Optional: makes sure the image doesn't get distorted */
         }
 
         h1 {
@@ -107,7 +109,7 @@
 </head>
 <body>
     
-    <img src="https://github.com/dasusers/OLD/blob/main/OLD.jpg?raw=true">" alt="BackInMyDay" style="width:640px;height:640px;>
+    <img src="https://github.com/dasusers/OLD/blob/main/OLD.jpg?raw=true" alt="BackInMyDay">
     <h3>BackInMyDay ‐ OLD</h3>
     <h6>Version 25.5 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
         

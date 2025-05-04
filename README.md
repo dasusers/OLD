@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h3>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h3>
     <title>BackInMyDay - OLD</title>
     <style>
         body {
@@ -90,8 +91,7 @@
 <body>
 
     <h1>BackInMyDay ‐ OLD</h1>
-        <h2>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h2>
-
+        
     <div class="content">
         <h2>🧓 BackInMyDay (OLD)</h2>
         <p>Founder: A guy who once mined Bitcoin on a microwave</p>

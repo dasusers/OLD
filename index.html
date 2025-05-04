@@ -24,14 +24,14 @@
         }
 
         h2 {
-            font-size: 1.3em;
+            font-size: 1.4em;
             color: #66FF66;
             text-align: left;
             padding-left: 20px;
         }
 
         h3 {
-            font-size: 1.3em;
+            font-size: 2em;
             color: #66FF66;
             text-align: center;
             padding-left: 20px;
@@ -128,8 +128,8 @@
         <h2 class="section-header">📈 Tokenomics</h2>
         <table>
             <tr>
-                <th>Feature</th>
-                <th>Value</th>
+                <th>Info</th>
+                <th>Stats</th>
             </tr>
             <tr>
                 <td>Total Supply</td>

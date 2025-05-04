@@ -59,7 +59,7 @@
         }
 
         table {
-            width: 50%;
+            width: 40%;
             margin: 20px auto;
             border-collapse: collapse;
             color: #66FF66;
@@ -193,7 +193,7 @@
             “Certified Crypto-Elder™”, complete with a badge that reads: “I Didn’t Chase Gains — I Waited for Them.”</li>
         </ul>
 
-        <h3 class="section-header">🪙 Use Cases</h3>
+        <h2 class="section-header">🪙 Use Cases</h2>
         <ul>
             <li>Passive flexing in Solana Twitter threads.</li>
             <li>Teaching the next generation about patience in Web3.</li>

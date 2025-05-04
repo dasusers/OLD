@@ -14,7 +14,7 @@
         }
 
         img {
-            width: 100%;
+            style="width:640px;height:640px;";
         }
 
         h1 {

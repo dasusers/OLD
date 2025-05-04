@@ -97,7 +97,7 @@
 <body>
 
     <h2>BackInMyDay ‐ OLD</h2>
-    <h6>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
+    <h6>Version 24.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
         
     <div class="content">
         <h3>🧓 BackInMyDay (OLD)</h3>

@@ -118,7 +118,8 @@
 <body>
     
     <h3>BackInMyDay ‐ OLD</h3>
-    <h6>Version 25.5 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
+    <h6>Version 25.5</h6>
+    <h6>34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
         
     <div class="content">
         <!-- Text content -->
@@ -218,7 +219,7 @@
             </ul>
 
             <h2>👴 Cultural Impact</h2>
-            <p>OLD is a cultural artifact, a protest coin, and a passive-aggressive note to every protocol with over 10k TPS. It celebrates inaction, distrust in progress, and the good old days of missed airdrops and forgotten wallets.</p>
+            <p>OLD is a cultural artifact, and a passive-aggressive note to every protocol with over 10k TPS. It celebrates inaction, distrust in progress, and the good old days of missed airdrops and forgotten wallets.</p>
 
             <h2 class="section-header">🚫 Disclaimer</h2>
             <p>This white paper is satire. OLD is not a financial product nor is this financial advice. If you want to build it, please consult a Solana dev, your most patient friend, and a grandfatherly figure for moral support.</p>

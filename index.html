@@ -59,7 +59,7 @@
         }
 
         table {
-            width: 80%;
+            width: 50%;
             margin: 20px auto;
             border-collapse: collapse;
             color: #66FF66;
@@ -71,7 +71,7 @@
 
         th, td {
             padding: 10px;
-            text-align: center;
+            text-align: left;
         }
 
         th {
@@ -104,7 +104,7 @@
 <body>
 
     <h2>BackInMyDay ‐ OLD</h2>
-    <h6>Version 24.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
+    <h6>Version 25.5 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h6>
         
     <div class="content">
         <h2>🧓 BackInMyDay (OLD)</h2>

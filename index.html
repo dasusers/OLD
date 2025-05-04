@@ -59,7 +59,7 @@
         }
 
         table {
-            width: 40%;
+            width: 50%;
             margin: 20px auto;
             border-collapse: collapse;
             color: #66FF66;

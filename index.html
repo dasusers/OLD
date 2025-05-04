@@ -31,14 +31,14 @@
         }
 
         h3 {
-            font-size: 1em;
+            font-size: 1.3em;
             color: #66FF66;
-            text-align: left;
+            text-align: center;
             padding-left: 20px;
         }
 
           h6 {
-            font-size: 1.8em;
+            font-size: 1.2em;
             color: #66FF66;
             text-align: center;
             padding-left: 20px;

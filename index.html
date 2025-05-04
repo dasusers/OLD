@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><h1>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h1></title>
-    <title>BackInMyDay - OLD</title>
+        <title>OLD</title>
     <style>
         body {
             background-color: black;
-            color: 00FF33;
+            color: white;
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
@@ -17,7 +16,7 @@
         h1 {
             text-align: center;
             font-size: 3em;
-            margin-top: 50px;
+            margin-top: 20px;
             color: #00FF33;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
             font-family: 'Times New Roman', serif;
@@ -91,6 +90,7 @@
 <body>
 
     <h1>BackInMyDay ‐ OLD</h1>
+    <h1>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h1>
         
     <div class="content">
         <h2>🧓 BackInMyDay (OLD)</h2>

@@ -16,8 +16,8 @@
         h1 {
             text-align: center;
             font-size: 3em;
-            margin-top: 20px;
-            color: #00FF33;
+            margin-top: 50px;
+            color: #66FF66;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
             font-family: 'Times New Roman', serif;
             text-transform: uppercase;
@@ -34,7 +34,7 @@
             font-size: 1.2em;
             line-height: 1.6;
             margin: 20px 40px;
-            color: #00FF33;
+            color: #66FF66;
         }
 
         ul {
@@ -48,7 +48,7 @@
             width: 80%;
             margin: 20px auto;
             border-collapse: collapse;
-            color: #00FF33;
+            color: #66FF66;
         }
 
         table, th, td {
@@ -76,13 +76,13 @@
 
         .footer {
             text-align: center;
-            color: #00FF33;
+            color: #66FF66;
             padding: 40px 0;
             font-size: 1em;
         }
 
         .footer a {
-            color: #00FF33;
+            color: #66FF66;
             text-decoration: none;
         }
     </style>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BackInMyDay - $OLD</title>
+    <title>BackInMyDay - OLD</title>
     <style>
         body {
             background-color: black;
@@ -89,18 +89,19 @@
 </head>
 <body>
 
-    <h1>BackInMyDay ‐ $OLD</h1>
+    <h1>BackInMyDay ‐ OLD</h1>
+        <h2>Version 1.1 – 34VtiFPAUf3NCfGKAbRC4SFqFSok7iGn4wigjfmmbonk</h2>
 
     <div class="content">
-        <h2>🧓 BackInMyDay ($OLD)</h2>
-        <p>The Only Crypto You’re Too Young to Understand<br>Version 1.1 – May 2025<br>Founder: A guy who once mined Bitcoin on a microwave</p>
+        <h2>🧓 BackInMyDay (OLD)</h2>
+        <p>Founder: A guy who once mined Bitcoin on a microwave</p>
 
         <h2>👴 Abstract</h2>
-        <p>BackInMyDay ($OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, $OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
+        <p>BackInMyDay (OLD) is a nostalgic, anti-hype, proof-of-inertia cryptocurrency that rewards only the most patient and stubborn investors — especially those who don’t trust anything that moves too fast… like Solana. In a world obsessed with speed, OLD dares to go slow. Like, dial-up slow. Our protocol encourages deep, painful HODLing and penalizes anyone with the nerve to do things.</p>
 
         <h2>💡 Vision Statement</h2>
         <p>“Back in my day, blockchains went down once a week, and we mined crypto with calculators!”</p>
-        <p>BackInMyDay exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. $OLD isn’t here to scale — it’s here to sit.</p>
+        <p>OLD exists to parody the generational divide in crypto, especially between old-school Bitcoiners and the Zoomer-fueled Solana crowd. OLD isn’t here to scale — it’s here to sit.</p>
 
         <h2 class="section-header">🧠 Key Features</h2>
         <ul>
@@ -122,7 +123,7 @@
             </tr>
             <tr>
                 <td>Token Symbol</td>
-                <td>$OLD</td>
+                <td>OLD</td>
             </tr>
             <tr>
                 <td>Decimal Places</td>
@@ -172,7 +173,7 @@
 
         <h2 class="section-header">🙃 How It Works</h2>
         <ul>
-            <li><strong>Acquire $OLD</strong> – You will instantly feel uneasy. That means it’s working.</li>
+            <li><strong>Acquire OLD</strong> – You will instantly feel uneasy. That means it’s working.</li>
             <li><strong>Do absolutely nothing</strong> – Transferring or staking resets your 10-year clock. Solana might be fast, but $OLD punishes haste.</li>
             <li><strong>Wait 10 years</strong> – After a full decade of inaction, you unlock your final form:  
             “Certified Crypto-Elder™”, complete with a badge that reads: “I Didn’t Chase Gains — I Waited for Them.”</li>
@@ -187,10 +188,10 @@
         </ul>
 
         <h2 class="section-header">👴 Cultural Impact</h2>
-        <p>$OLD is a cultural artifact, a protest coin, and a passive-aggressive note to every protocol with over 10k TPS. It celebrates inaction, distrust in progress, and the good old days of missed airdrops and forgotten wallets.</p>
+        <p>OLD is a cultural artifact, a protest coin, and a passive-aggressive note to every protocol with over 10k TPS. It celebrates inaction, distrust in progress, and the good old days of missed airdrops and forgotten wallets.</p>
 
         <h2 class="section-header">🚫 Disclaimer</h2>
-        <p>This white paper is satire. $OLD is not a financial product. If you want to build it, please consult a Solana dev, your most patient friend, and a grandfatherly figure for moral support.</p>
+        <p>This white paper is satire. OLD is not a financial product. If you want to build it, please consult a Solana dev, your most patient friend, and a grandfatherly figure for moral support.</p>
 
     </div>
 

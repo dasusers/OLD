@@ -25,14 +25,14 @@
 
         h2 {
             font-size: 1.8em;
-            color: #00FF33;
+            color: #66FF66;
             text-align: left;
             padding-left: 20px;
         }
 
         h3 {
             font-size: 1em;
-            color: #00FF33;
+            color: #66FF66;
             text-align: center;
             padding-left: 20px;
         }
@@ -48,7 +48,7 @@
             font-size: 1.2em;
             line-height: 1.6;
             margin: 20px 40px;
-            color: #00FF33;
+            color: #66FF66;
         }
 
         table {
@@ -73,7 +73,7 @@
 
         .section-header {
             font-size: 2em;
-            color: #00FF33;
+            color: #66FF66;
             margin-top: 30px;
         }
 
